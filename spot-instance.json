@@ -1,0 +1,8 @@
+{
+    "ImageId": "### your image id from AWS###",
+    "InstanceType": "c4.large",
+    "KeyName": "### your key name from AWS ###",
+    "SecurityGroupIds": [
+      "### your security group from AWS ###"
+    ]
+  }
